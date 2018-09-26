@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get the value of an application property</description>
+        <internal_name>get_property</internal_name>
+        <label_cache>[{"name":"{{action.property}}","label":"action➛Property","type":"action","ref":""}]</label_cache>
+        <latest_snapshot>896513304ff0230066be8deba310c72c</latest_snapshot>
+        <master_snapshot>056513304ff0230066be8deba310c750</master_snapshot>
+        <name>Get Property</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-25 00:31:50</sys_created_on>
+        <sys_id>0001173c4fb0230066be8deba310c7c5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_89366_needit_spo">c9c0d3384fb0230066be8deba310c795</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">c9c0d3384fb0230066be8deba310c795</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_0001173c4fb0230066be8deba310c7c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-25 00:51:02</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=0001173c4fb0230066be8deba310c7c5"/>
+    <sys_variable_value action="delete_multiple" query="document_key=0001173c4fb0230066be8deba310c7c5"/>
+</record_update>
